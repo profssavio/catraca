@@ -1,6 +1,6 @@
 # ESTRATÉGIA DE IMPORTAÇÃO (SEMESTRAL)
 
-O arquivo modelo está no projeto.
+O arquivo modelo está no projeto **modelo.csv**
 
 ## 1ª IMPORTAÇÃO 
 
