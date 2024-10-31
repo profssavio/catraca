@@ -1,0 +1,4 @@
+id,registration,name,cpf,phone,cargo,password,pis,barras,rg,telefone,email,emailAcesso,endereco,bairro,cidade,cep,ramal,pai,mae,sexo,admissao,nascimento,estadoCivil,nacionalidade,naturalidade,dateStartLimit,dateLimit,comments,inativo,contingency,blackList,cards,templates,idDevice,idDepartamentos
+MATRICULA,MATRICULA,NOME,CPF,,,,,,,,,,,,,,,,,,,,,,,,,,Não,Não,Não,,,,1
+MATRICULA,MATRICULA,NOME,CPF,,,,,,,,,,,,,,,,,,,,,,,,,,Não,Não,Não,,,,1
+MATRICULA,MATRICULA,NOME,CPF,,,,,,,,,,,,,,,,,,,,,,,,,,Não,Não,Não,,,,1
