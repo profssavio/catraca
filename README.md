@@ -23,3 +23,7 @@ df['name'] = df['name'].apply(remover_acentos)
 df.to_csv('Importacao_sem_acento.csv', index=False)
 
 ```
+
+# NA COLUNA *dateStartLimit	dateLimit*
+
+- Definir a data do semestre
