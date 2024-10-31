@@ -1,3 +1,14 @@
+# ESTRATEGIA DE IMPORTAÇÃO (SEMESTRAL)
+
+## 1ª IMPORTAÇÃO 
+
+- FAZER A IMPORTAÇÃO DE TODOS OS ESTUDANTES VIA ARQUIVO CSV E GUARDAR O ARQUIVO NO LOCAL DETERMINADO.
+
+## 2ª IMPORTAÇÃO
+
+- Pegar o arquivo da importação anterior e colocar na **coluna INATIVO** o valor **Sim** e realizar a importação.
+- Pegar o **novo arquivo** e fazer a importação
+
 # RETIRAR ACENTOS DO ARQUIVO COLUNA *NAME*
 
 - Em Python
