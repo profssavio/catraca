@@ -1,5 +1,7 @@
 # ESTRATÉGIA DE IMPORTAÇÃO (SEMESTRAL)
 
+O arquivo modelo está no projeto.
+
 ## 1ª IMPORTAÇÃO 
 
 - Fazer a importação de todos os estudantes via arquivo .csv e se possível guardar no local determinado.
