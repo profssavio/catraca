@@ -8,7 +8,7 @@
 
 - Pegar o arquivo da importação anterior e colocar na **coluna INATIVO** o valor **Sim** e realizar a importação.
 - > **!Importante:** Se por acaso não tem mais o arquivo, a opção e fazer a exportação do sistema e arrumar as colunas.
-- Pegar o **novo arquivo** e fazer a importação
+- Pegar  **novo arquivo do próximo semestre** e fazer a importação
 
 # RETIRAR ACENTOS DO ARQUIVO COLUNA *NAME*
 
