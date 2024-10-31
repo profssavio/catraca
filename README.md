@@ -2,11 +2,12 @@
 
 ## 1ª IMPORTAÇÃO 
 
-- FAZER A IMPORTAÇÃO DE TODOS OS ESTUDANTES VIA ARQUIVO CSV E GUARDAR O ARQUIVO NO LOCAL DETERMINADO.
+- Fazer a importação de todos os estudantes via arquivo .csv e se possível guardar no local determinado.
 
 ## 2ª IMPORTAÇÃO
 
 - Pegar o arquivo da importação anterior e colocar na **coluna INATIVO** o valor **Sim** e realizar a importação.
+- > **!Importante:** Se por acaso não tem mais o arquivo, a opção e fazer a exportação do sistema e arrumar as colunas.
 - Pegar o **novo arquivo** e fazer a importação
 
 # RETIRAR ACENTOS DO ARQUIVO COLUNA *NAME*
