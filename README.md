@@ -2,6 +2,8 @@
 
 O arquivo modelo está no projeto **modelo.csv**
 
+> **!Importante:** Os valores de **matrícula** e **cpf** não podem ter mascaras.
+
 ## 1ª IMPORTAÇÃO 
 
 - Fazer a importação de todos os estudantes via arquivo .csv e se possível guardar no local determinado.
