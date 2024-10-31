@@ -27,3 +27,11 @@ df.to_csv('Importacao_sem_acento.csv', index=False)
 # NA COLUNA *dateStartLimit	dateLimit*
 
 - Definir a data do semestre
+
+Exemplo:
+
+```
+dateStartLimit	dateLimit
+20/03/2018	25/03/2018
+20/03/2018	25/03/2018
+```
