@@ -3,6 +3,7 @@
 O arquivo modelo está no projeto **modelo.csv**
 
 > **!Importante:** Os valores de **matrícula** e **cpf** não podem ter mascaras.
+> 
 > **!Importante:** Os campos **matrícula** e **cpf** tem que ser do tipo texto para não peder o zero inicial.
 
 ## IMPORTAÇÃO 
