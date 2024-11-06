@@ -3,16 +3,20 @@
 O arquivo modelo está no projeto **modelo.csv**
 
 > **!Importante:** Os valores de **matrícula** e **cpf** não podem ter mascaras.
+> **!Importante:** Os campos **matrícula** e **cpf** tem que ser do tipo texto para não peder o zero inicial.
 
-## 1ª IMPORTAÇÃO 
+## IMPORTAÇÃO 
 
-- Fazer a importação de todos os estudantes via arquivo .csv e se possível guardar no local determinado.
+- Fazer a importação de todos os estudantes via arquivo .csv
 
-## 2ª IMPORTAÇÃO
+> **!Importante:** As colunas **dateStartLimit	dateLimit** definir a data do semestre
 
-- Pegar o arquivo da importação anterior e colocar na **coluna INATIVO** o valor **Sim** e realizar a importação.
-- > **!Importante:** Se por acaso não tem mais o arquivo, a opção e fazer a exportação do sistema e arrumar as colunas.
-- Pegar  **novo arquivo do próximo semestre** e fazer a importação
+Exemplo:
+```
+dateStartLimit	dateLimit
+20/03/2018	25/03/2018
+20/03/2018	25/03/2018
+```
 
 # RETIRAR ACENTOS DO ARQUIVO COLUNA *NAME*
 
@@ -38,16 +42,4 @@ df['name'] = df['name'].apply(remover_acentos)
 # Salvar o DataFrame de volta em um novo arquivo CSV
 df.to_csv('Importacao_sem_acento.csv', index=False)
 
-```
-
-# NA COLUNA *dateStartLimit	dateLimit*
-
-- Definir a data do semestre
-
-Exemplo:
-
-```
-dateStartLimit	dateLimit
-20/03/2018	25/03/2018
-20/03/2018	25/03/2018
 ```
